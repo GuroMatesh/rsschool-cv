@@ -25,3 +25,8 @@
 ***Typescript, Angular, GitHub, C++, Algorithms.***
 
 *Languages:* **Georgian, Russian, English.**
+
+*---- Working Experience*
+
+*2020 -* **Front-End Angular Developer at**
+*Ongoing* **TBC Business Internet Bank**
